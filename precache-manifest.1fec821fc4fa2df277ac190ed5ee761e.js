@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "65ad6df2f0d76d275445c2d35a53454f",
+    "revision": "60da3603dcbea403c63c7d2787fc24ec",
     "url": "/trading-room/index.html"
   },
   {
-    "revision": "ddaba669a08a2f843f7f",
-    "url": "/trading-room/static/css/main.91e4f968.chunk.css"
+    "revision": "a672bfd0fbea45be8e43",
+    "url": "/trading-room/static/css/main.bc186b28.chunk.css"
   },
   {
     "revision": "a35fcab568aa77beb61e",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/trading-room/static/js/2.053f7dfb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ddaba669a08a2f843f7f",
-    "url": "/trading-room/static/js/main.e1731717.chunk.js"
+    "revision": "a672bfd0fbea45be8e43",
+    "url": "/trading-room/static/js/main.f8e1bdc1.chunk.js"
   },
   {
     "revision": "ef150c46cf90d31ff2c8",

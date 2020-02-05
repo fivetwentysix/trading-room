@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/trading-room/static/css/main.91e4f968.chunk.css",
-    "main.js": "/trading-room/static/js/main.e1731717.chunk.js",
-    "main.js.map": "/trading-room/static/js/main.e1731717.chunk.js.map",
+    "main.css": "/trading-room/static/css/main.bc186b28.chunk.css",
+    "main.js": "/trading-room/static/js/main.f8e1bdc1.chunk.js",
+    "main.js.map": "/trading-room/static/js/main.f8e1bdc1.chunk.js.map",
     "runtime-main.js": "/trading-room/static/js/runtime-main.bd736002.js",
     "runtime-main.js.map": "/trading-room/static/js/runtime-main.bd736002.js.map",
     "static/js/2.053f7dfb.chunk.js": "/trading-room/static/js/2.053f7dfb.chunk.js",
     "static/js/2.053f7dfb.chunk.js.map": "/trading-room/static/js/2.053f7dfb.chunk.js.map",
     "index.html": "/trading-room/index.html",
-    "precache-manifest.6b868d8fd4512609c7a8933eef1aceef.js": "/trading-room/precache-manifest.6b868d8fd4512609c7a8933eef1aceef.js",
+    "precache-manifest.1fec821fc4fa2df277ac190ed5ee761e.js": "/trading-room/precache-manifest.1fec821fc4fa2df277ac190ed5ee761e.js",
     "service-worker.js": "/trading-room/service-worker.js",
-    "static/css/main.91e4f968.chunk.css.map": "/trading-room/static/css/main.91e4f968.chunk.css.map",
+    "static/css/main.bc186b28.chunk.css.map": "/trading-room/static/css/main.bc186b28.chunk.css.map",
     "static/js/2.053f7dfb.chunk.js.LICENSE.txt": "/trading-room/static/js/2.053f7dfb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.bd736002.js",
     "static/js/2.053f7dfb.chunk.js",
-    "static/css/main.91e4f968.chunk.css",
-    "static/js/main.e1731717.chunk.js"
+    "static/css/main.bc186b28.chunk.css",
+    "static/js/main.f8e1bdc1.chunk.js"
   ]
 }
