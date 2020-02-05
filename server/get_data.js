@@ -34,7 +34,7 @@ const req = https.request(options, (res) => {
   });
 
   res.on('end', () => {
-    fs.writeFileSync(`${__dirname}/data.json`, data);
+    fs.writeFileSync(`${__dirname}/../src/data.json`, data);
   });
 });
 
