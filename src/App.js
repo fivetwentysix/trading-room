@@ -81,43 +81,47 @@ export class App extends React.Component {
       </tr>
     ));
     return (
-      <div className="App">
-        <h1>trading room</h1>
-        <div className="balance">Balance: ${this.state.balance}</div>
-        <div><small>Times are your local computer time.</small></div>
+      <div>
+        <div className="App">
+          <h1>trading room</h1>
+          <div className="balance">Balance: ${this.state.balance}</div>
+          <div><small>Times are your local computer time.</small></div>
 
-        <div className="row">
-          <div>
-            <h3>Ticks</h3>
-            <table>
-              <thead>
-                <tr>
-                  <th>Time</th>
-                  <th>Open</th>
-                  <th>Low</th>
-                  <th>High</th>
-                  <th>Close</th>
-                  <th>Volume</th>
-                  <th>Actions</th>
-                </tr>
-              </thead>
-              <tbody>{rows}</tbody>
-            </table>
+          <div className="row">
+            <div>
+              <h3>Ticks</h3>
+              <table>
+                <thead>
+                  <tr>
+                    <th>Time</th>
+                    <th>Open</th>
+                    <th>Low</th>
+                    <th>High</th>
+                    <th>Close</th>
+                    <th>Volume</th>
+                    <th>Actions</th>
+                  </tr>
+                </thead>
+                <tbody>{rows}</tbody>
+              </table>
+            </div>
+            <div>
+              <h3>Transactions</h3>
+              <table>
+                <thead>
+                  <tr>
+                    <th>Time</th>
+                    <th>Price</th>
+                    <th>Side</th>
+                  </tr>
+                </thead>
+                <tbody>{transactions}</tbody>
+              </table>
+            </div>
           </div>
-          <div>
-            <h3>Transactions</h3>
-            <table>
-              <thead>
-                <tr>
-                  <th>Time</th>
-                  <th>Price</th>
-                  <th>Side</th>
-                </tr>
-              </thead>
-              <tbody>{transactions}</tbody>
-            </table>
-          </div>
+
         </div>
+        <div className="footer">Author <a href="https://fivetwentysix.com">fivetwentysix</a></div>
       </div>
     );
   }

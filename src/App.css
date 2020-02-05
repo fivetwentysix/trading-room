@@ -36,7 +36,9 @@ button {
   border: 1px solid #00952d;
   color: white;
 }
-
+.row {
+  clear: both;
+}
 .row > div {
   float: left;
   margin-right: 0.5em;
@@ -44,4 +46,11 @@ button {
 
 .balance {
   font-size: 21pt;
+}
+
+.footer {
+  clear: both;
+  width: 100%;
+  text-align: center;
+  padding: 3em 0;
 }
